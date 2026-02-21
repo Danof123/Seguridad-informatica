@@ -7,9 +7,6 @@ Programa en Python que rompe el cifrado César utilizando:
 - Fuerza bruta
 - Detección automática de idioma (español)
 
-Autor: Daniel Ortiz Flores
-Materia: Seguridad / Criptografía
-
 ## Capturas de ejecución
 
 ### Ejemplo 1
