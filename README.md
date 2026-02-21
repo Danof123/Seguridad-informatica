@@ -8,3 +8,11 @@ Programa en Python que rompe el cifrado César utilizando:
 
 Autor: Daniel Ortiz Flores
 Materia: Seguridad / Criptografía
+
+## Capturas de ejecución
+
+### Ejemplo 1
+![Ejecución 1](capturas/prueba1.png)
+
+### Ejemplo 2
+![Ejecución 2](capturas/prueba2.png)
