@@ -12,7 +12,7 @@ Materia: Seguridad / Criptografía
 ## Capturas de ejecución
 
 ### Ejemplo 1
-![Ejecución 1](capturas/prueba 1.png)
+![Prueba 1](capturas/prueba1.png)
 
 ### Ejemplo 2
-![Ejecución 2](capturas/prueba_2.png)
+![Ejecución 2](capturas/prueba2.png)
